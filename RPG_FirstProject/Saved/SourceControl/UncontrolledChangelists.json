@@ -6,18 +6,19 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Crouch_Idle.uasset",
-				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Crouh_Walk.uasset",
-				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Idle_Break.uasset",
-				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Walk_Stop.uasset",
 				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Locomotion/Idle_Break.uasset",
 				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Crouch/Crouch_Idle.uasset",
 				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Crouch/Crouh_Walk.uasset",
 				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Locomotion/Walk_Stop.uasset",
-				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Locomotion/Locomotion.uasset",
 				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Locomotion/LocomottionBlendSpace1D.uasset",
 				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/ABP_RPGCharacter.uasset",
-				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Putra/ExerciseGameDev/RPG Series Git/RPG_FirstProject/Content/ThirdPerson/Blueprints/BPC_PlayerStats.uasset",
+				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Crouch_Idle.uasset",
+				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Crouh_Walk.uasset",
+				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Idle_Break.uasset",
+				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Walk_Stop.uasset",
+				"D:/Putra/ExerciseGameDev/RPG Unreal/RPG_FirstProject/Content/Characters/RPG_Character/Animation/Locomotion/Locomotion.uasset"
 			]
 		}
 	]
